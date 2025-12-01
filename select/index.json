@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Reason for existence",
+  "base_artist": "Tsukuyomi",
+  "createdAt": "2025-12-01T10:05:41.295897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reason for Existence",
+      "artist": "Leftöver Crack",
+      "has_synced": false,
+      "path": "select/01_Reason_for_Existence_Leftöver_Crack.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reason for Existence",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/02_Reason_for_Existence_Subhumans.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reason for Existence",
+      "artist": "Leftöver Crack",
+      "has_synced": true,
+      "path": "select/03_Reason_for_Existence_Leftöver_Crack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reason for existence",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/04_Reason_for_existence_Tsukuyomi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reason for existence",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/05_Reason_for_existence_Tsukuyomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big City (Reason For Existence EP)",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/06_Big_City_(Reason_For_Existence_EP)_Subhumans.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cancer (Reason For Existence EP)",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/07_Cancer_(Reason_For_Existence_EP)_Subhumans.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Peroxide (Reason For Existence EP)",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/08_Peroxide_(Reason_For_Existence_EP)_Subhumans.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reason For Existence (Reason For Existence EP)",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/09_Reason_For_Existence_(Reason_For_Existence_EP)_Subhumans.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reason for existence",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/10_Reason_for_existence_月詠み.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reason for existence (Acoustic ver.)",
+      "artist": "Tsukuyomi",
+      "has_synced": false,
+      "path": "select/11_Reason_for_existence_(Acoustic_ver.)_Tsukuyomi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reason for Existence",
+      "artist": "Leftover Leftöver Crack: The E-Sides And F-Sides",
+      "has_synced": false,
+      "path": "select/12_Reason_for_Existence_Leftover_Leftöver_Crack__The_E-Sides_And_F-Sides.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reason For Existence",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/pl_01_Reason_For_Existence_Subhumans.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Reason for existence",
+      "artist": "Subhumans",
+      "has_synced": false,
+      "path": "select/pl_02_Reason_for_existence_Subhumans.txt"
+    }
+  ]
+}
